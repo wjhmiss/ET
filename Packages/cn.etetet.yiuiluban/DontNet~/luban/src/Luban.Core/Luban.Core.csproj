@@ -42,8 +42,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="NLog" Version="5.3.4" />
-      <PackageReference Include="Scriban" Version="7.1.0" />
+      <PackageReference Include="NLog" Version="6.1.4" />
+      <PackageReference Include="Scriban" Version="7.2.5" />
     </ItemGroup>
 
 </Project>
