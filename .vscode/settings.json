@@ -31,5 +31,7 @@
     "claudeCodeChat.permissions.yoloMode": true,
     "Codegeex.GenerationPreference": "block",
     "Codegeex.CompletionDelay": 0.2,
-    "dotrush.roslyn.projectOrSolutionFiles": []
+    "dotrush.roslyn.projectOrSolutionFiles": [
+        "d:\\Unity\\ET\\Packages\\cn.etetet.statesync\\ET.sln"
+    ]
 }
